@@ -18,8 +18,8 @@
   <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" />
   <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" />
   <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/codeigniter.svg" alt="CodeIgniter"/>
-  <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" />
-  <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" />
+  <img height="50" style="background-color:white" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" />
+  <!-- <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" /> -->
   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/rails.svg" alt="Ruby on Rails" />
   <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" />
   <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" />
